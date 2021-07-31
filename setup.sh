@@ -6,7 +6,7 @@ mkdir ./dev
 cd ./dev
 mkdir ./tmp
 cd ./tmp
-git clone "https://github.com/libDrive/server.git" --depth 1 server
+git clone "https://github.com/VinzGh1/server.git" --depth 1 server
 git clone "https://github.com/VinzGh1/web.git" --depth 1 web
 mkdir ./libDrive.Server
 mkdir ./libDrive.Server/build
